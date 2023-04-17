@@ -12,7 +12,7 @@ OPen Folder=> select folder=> Yes , i trust authors.
 MarketPlace=> extensions
 Source Control=> Github
 
-Change Theme as Well
+Change Theme as WELL
 
 MS.WORD
 
